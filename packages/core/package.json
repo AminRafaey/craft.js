@@ -39,7 +39,7 @@
     "@types/react": "^17.0.5",
     "debounce": "^1.2.0",
     "lodash": "^4.17.20",
-    "tiny-invariant": "^1.0.6"
+    "tiny-invariant": "git+https://github.com/AminRafaey/tiny-invariant.git"
   },
   "devDependencies": {
     "react": "^17.0.2"
