@@ -989,11 +989,15 @@ function Re(e) {
               var n = e;
               return (
                 'string' == typeof n && (n = L.createElement(B, {}, n)),
-                Se({ data: { type: n.type, props: U({}, n.props) } }, function (
-                  e
-                ) {
-                  t && t(e, n);
-                })
+                Se(
+                  {
+                    id: n.props.id,
+                    data: { type: n.type, props: U({}, n.props) },
+                  },
+                  function (e) {
+                    t && t(e, n);
+                  }
+                )
               );
             })(t, function (t, n) {
               var o = Ce(e.options.resolver, t.data.type);

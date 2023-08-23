@@ -1190,7 +1190,7 @@ function parseNodeFromJSX(e, t) {
     'string' == typeof n &&
       (n = React__default.default.createElement(React.Fragment, {}, n)),
     createNode(
-      { data: { type: n.type, props: _assign({}, n.props) } },
+      { id: n.props.id, data: { type: n.type, props: _assign({}, n.props) } },
       function (e) {
         t && t(e, n);
       }
