@@ -25,8 +25,8 @@ export declare function NodeHelpers(
   isDroppable(
     selector:
       | string
-      | import('../interfaces').Node
       | string[]
+      | import('../interfaces').Node
       | import('../interfaces').Node[],
     onError?: (err: string) => void
   ): boolean;
