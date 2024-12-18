@@ -239,7 +239,7 @@
       },
       "../src/utils/getnodesfromselector.ts": {
         "version": "0bf1902f99d7774266f2c65e082a7833d45547b926c626be23a60278cdcd5283",
-        "signature": "fb6998ab5e611605b9e0734e0faf4cb5fca0b3a3fd5ffd0d451ae3373224cd91"
+        "signature": "0922b84a5ef33131f624829a9d883093c183b09d46f5c9cf9d0d4becc7011042"
       },
       "../src/utils/resolvecomponent.ts": {
         "version": "c77970842927a075964f631b6039fa0d0ba8530ed41c5b5cd53a6aac2114efa5",
@@ -251,7 +251,7 @@
       },
       "../src/editor/nodehelpers.ts": {
         "version": "66dcef5066f984486f8a2cf54de5bfaa056c712846743f8479e89349f84a4b36",
-        "signature": "5d0a219a6cb5ac55627fbdcd087494c4c9175e255d6c6a22c68f93e49b17cee5"
+        "signature": "efade5a3b43c865e6d33a80e6ce12d0270ed1b80faa8610acf45e7153f13fa39"
       },
       "../src/events/findposition.ts": {
         "version": "a038277eb1a5c2d0cc417b0303b0250127bea70b1a682658bf78e3016e9df71c",
@@ -279,7 +279,7 @@
       },
       "../src/editor/query.tsx": {
         "version": "12374e38827106dcb4052792b9d03a30166bddc640c3f0a65506b6d60937ccc0",
-        "signature": "61bbde30fbc1ec52efc3bf7052bb817cc1abafaf1a309dc04453c38047dc2129"
+        "signature": "4bff8922dbc5cda7b8e897024a3864d6f2d424dfc956bb898bd2f584efce4dad"
       },
       "../src/interfaces/nodes.ts": {
         "version": "0ac7874451ab1f6d077a732b5fbbf45535c960be305c61e92e7950ae732d5131",
@@ -295,7 +295,7 @@
       },
       "../src/editor/actions.ts": {
         "version": "800676ebde66ac21a88e0e10cdc86741ba24c6738f8f560b80ad9cbdbf780dce",
-        "signature": "b775f55710e8b82abe14e29802df6b746828511c228e01766952692241d89e46"
+        "signature": "7ed7b0a1d946d55eb75bfdfa684bef417f2782faee03fd5c18ae089b11945b1e"
       },
       "../src/events/coreeventhandlers.ts": {
         "version": "3c398e314e7d51d79b07df1ef669801608f9eb924ae26d213aa8ab6a7b9151cb",
@@ -306,8 +306,8 @@
         "signature": "367636e67bf6b6123d4690d4b9a705acd7ab37e7a696f876461b4e6fc9727976"
       },
       "../src/events/positioner.ts": {
-        "version": "594347b79c286124e29f3311d3aa91f97bee7f6e5892a4be6c981458f13b5a47",
-        "signature": "28de172a15ba946f440cfa809c48dce09d036adbae2d1e3e333bfb20b9abb676"
+        "version": "7434e6791df5e0ad87f484264c0034838645d0643e624e10d441ddb13e4e2843",
+        "signature": "e69649b92ee772936127efc41f99296b0f4a977c6c2f9140d92cb784830fb39e"
       },
       "../src/events/createshadow.ts": {
         "version": "40e98197c75f64b0800aa233fc89ae64fffdd93a63631981aadc6cc61ae11db3",
@@ -323,7 +323,7 @@
       },
       "../src/editor/editorcontext.tsx": {
         "version": "28bf665fed45e4ed02a292ad8f5126e8fb9a9de6fd356b4ba30d90c87a8e3eb7",
-        "signature": "b6ec36ea84290fd8ee24e3df7b6e792a476c90c8cf07407eb8199aee33fdbfc4"
+        "signature": "852a31518a682872d2ccbc116c4777beedb91e40244bd417734bf79dfe0326f2"
       },
       "../src/editor/useinternaleditor.ts": {
         "version": "12c851a638c54462be2d7203911b46e4e67478c3a25bfbcd32849ad0034d9bfc",
@@ -343,7 +343,7 @@
       },
       "../src/editor/store.tsx": {
         "version": "35503a7b37fe7c0fc6b89645769a91538f7a5cb429b2301a9e8ae585477d16ba",
-        "signature": "5d4e0f06123c8f1f30d1f794da660a12abfc8f2b3868000e23ed569c52a5a887"
+        "signature": "bd1c19dbf40706e03e50d7fa104a3b234ceff41e6bdef3479a1532c39979b65c"
       },
       "../src/interfaces/editor.ts": {
         "version": "48b0d61e0ca00bcb91b8a5251c9aae1523369f07150c1ff8e487f0ddcd7970ce",
@@ -359,11 +359,11 @@
       },
       "../src/nodes/useinternalnode.ts": {
         "version": "afa356230533ac80883efc151f5a78b01fae04b2a72320443dd63d68b98ea030",
-        "signature": "11040e1adee5bcf61837c48af77723b651b5dcf970e4467b6c1e77aeaaab8857"
+        "signature": "a3440c780230f0fdc8605836d4e09c0d5fbff2a9d13cd3eee9d683127101d698"
       },
       "../src/hooks/usenode.ts": {
         "version": "9f22e61b51e8f95c4852744eb323b8d82c4b39ed66179ab4a540051013976212",
-        "signature": "15b8f168a01c5f3b6872879f5aafff6f852b7b5e3ada18627ac1cab04d30dfd0"
+        "signature": "191bbabd55de25f8f23cb6ee375aedafbfe8621b34091a29e180c8127b45d791"
       },
       "../src/render/simpleelement.tsx": {
         "version": "162184c7c8f57c5d0d707d664a931152cd5b0b4418ee248e719cf305db0198fa",
@@ -4924,6 +4924,7 @@
       "../../utils/lib/index.d.ts",
       "../node_modules/tiny-invariant/src/index.d.ts",
       "../src/editor/eventhelpers.ts",
+      "../src/utils/getnodesfromselector.ts",
       "../src/utils/resolvecomponent.ts",
       "../src/utils/serializenode.tsx",
       "../src/editor/nodehelpers.ts",
@@ -5125,8 +5126,7 @@
       "../../../node_modules/@types/testing-library__react/node_modules/@types/react-dom/test-utils/index.d.ts",
       "../../../node_modules/@types/testing-library__react/index.d.ts",
       "../../../node_modules/@types/yargs-parser/index.d.ts",
-      "../../../node_modules/@types/yargs/index.d.ts",
-      "../src/utils/getnodesfromselector.ts"
+      "../../../node_modules/@types/yargs/index.d.ts"
     ]
   },
   "version": "3.6.4"
